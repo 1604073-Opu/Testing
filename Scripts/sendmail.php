@@ -18,7 +18,7 @@ $mail->SMTPSecure = 'ssl';
 $mail->Port = 465;
 $mail->Host = 'premium37.web-hosting.com';
 $mail->Username = 'help@zero.ourcuet.com';
-$mail->Password = 'nahidulopu';
+$mail->Password = '**********';
 $mail->setFrom('help@zero.ourcuet.com');
 $mail->addAddress($address);
 $mail->Subject = $subject;
